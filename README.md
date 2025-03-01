@@ -1,3 +1,1 @@
-                                                                                **Project Overview**
-
 This project implements a PID-based cruise control system using MATLAB/Simulink to maintain vehicle speed efficiently. By modeling vehicle dynamics and applying the Ziegler-Nichols tuning method, the system optimizes PID parameters to minimize overshoot, settling time, and steady-state error. Simulations demonstrate a 98% speed tracking accuracy, 40% reduction in settling time, and 30% improvement in stability compared to baseline models. The project highlights the effectiveness of PID control in enhancing driving stability and adaptability under variable road conditions.
